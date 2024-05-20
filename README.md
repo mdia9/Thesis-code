@@ -1,3 +1,3 @@
 # Thesis code
 
-In here most of the code used for my Master Thesis can be found.
+This repository contains supplementary code to my master thesis titled "Bayesian machine learning for reliability analysis of road infrastructure".
